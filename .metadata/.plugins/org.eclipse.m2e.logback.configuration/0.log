@@ -172,3 +172,4 @@
 2018-01-14 18:08:04,210 [Worker-2] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::Join/version::1.0.0
 2018-01-14 18:08:04,210 [Worker-2] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name ctype::FlowstepVariant/cname::MIME Multipart Message Encode/version::1.1.1
 2018-01-14 18:08:04,210 [Worker-2] INFO  c.s.i.p.p.i.ProductProfileManagerImpl - Capability name RFC
+2018-01-14 18:18:04,533 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

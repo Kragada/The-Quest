@@ -348,3 +348,419 @@ com.sap.it.commons.command.eclipsechannel.ServerNotConfiguredException: [Command
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SESSION 2018-01-14 18:17:37.393 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-01-14 18:18:04.584
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dinez'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.099
+!MESSAGE Removing part descriptor with the 'com.sap.adt.atc.ui.internal.views.resultbrowser' id and the 'ATC Result Browser' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.107
+!MESSAGE Removing part descriptor with the 'com.sap.adt.atc.ui.internal.views.problems' id and the 'ATC Problems' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.114
+!MESSAGE Removing part descriptor with the 'com.sap.adt.cds.ddl.ui.ActiveObjectView' id and the 'Active Annotations' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.122
+!MESSAGE Removing part descriptor with the 'com.sap.adt.cds.ddl.ui.CdsNavigator' id and the 'CDS Navigator' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.128
+!MESSAGE Removing part descriptor with the 'com.sap.adt.communication.ui.views.LoggingView' id and the 'ABAP Communication Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.134
+!MESSAGE Removing part descriptor with the 'com.sap.adt.ddic.ui.LogView' id and the 'Dictionary Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.140
+!MESSAGE Removing part descriptor with the 'com.sap.adt.debugger.ui.views.SessionsView' id and the 'ABAP Debugger Sessions' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.146
+!MESSAGE Removing part descriptor with the 'com.sap.adt.debugger.ui.views.TableView' id and the 'ABAP Internal Table (Debugger)' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.151
+!MESSAGE Removing part descriptor with the 'com.sap.adt.debugger.ui.views.ExceptionView' id and the 'ABAP Exception (Debugger)' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.156
+!MESSAGE Removing part descriptor with the 'com.sap.adt.debugger.ui.views.SystemArea' id and the 'ABAP System Areas (Debugger, INTERNAL)' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.161
+!MESSAGE Removing part descriptor with the 'com.sap.adt.docu.abap.language.help.view' id and the 'ABAP Language Help' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.167
+!MESSAGE Removing part descriptor with the 'com.sap.adt.docu.atc.view' id and the 'ABAP Problem Description' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.172
+!MESSAGE Removing part descriptor with the 'com.sap.adt.featureexplorer.ui.view' id and the 'Feature Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.176
+!MESSAGE Removing part descriptor with the 'com.sap.adt.feedreader.ui.FeedsView' id and the 'Feed Reader' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.180
+!MESSAGE Removing part descriptor with the 'com.sap.adt.logpoint.ui.logpoints' id and the 'Logpoints' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.184
+!MESSAGE Removing part descriptor with the 'com.sap.adt.profiler.ui.TracesView' id and the 'ABAP Traces' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.191
+!MESSAGE Removing part descriptor with the 'com.sap.adt.profiler.ui.RequestsView' id and the 'ABAP Trace Requests' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.196
+!MESSAGE Removing part descriptor with the 'com.sap.adt.refactoring.ui.RefactoringView' id and the 'Quick Assist' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.200
+!MESSAGE Removing part descriptor with the 'com.sap.adt.sapgui.ui.views.GuiLoggingView' id and the 'SAP GUI Events' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.206
+!MESSAGE Removing part descriptor with the 'com.sap.adt.sapgui.ui.win32.views.GuiProcessView' id and the 'Gui Pipe View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.210
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tm.ui.tmview' id and the 'Transport Organizer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.215
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.abapsource.ui.abapunit.TestRunnerView' id and the 'ABAP Unit Runner' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.221
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.abapsource.ui.CoverageView' id and the 'ABAP Coverage' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.227
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.abapsource.ui.AbapDocView' id and the 'ABAP Element Info' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.234
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.abapsource.ui.AbapTypeHierarchyView' id and the 'ABAP Type Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.238
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.core.ui.AbapLogView' id and the 'ABAP Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.243
+!MESSAGE Removing part descriptor with the 'com.sap.adt.tools.sqlm.sqlmView' id and the 'SQL Monitor' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.249
+!MESSAGE Removing part descriptor with the 'com.sap.bw.qd.ip' id and the 'InfoProvider' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.255
+!MESSAGE Removing part descriptor with the 'com.sap.bw.preview' id and the 'BW Reporting Preview' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.263
+!MESSAGE Removing part descriptor with the 'com.sap.bw.editor.ui.monitor.MonitorView' id and the 'Monitor View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.270
+!MESSAGE Removing part descriptor with the 'com.sap.bw.editor.ui.html.MasterDataMaintenanceView' id and the 'Master Data Maintenance' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.276
+!MESSAGE Removing part descriptor with the 'com.sap.bw.editor.ui.html.HierarchyMaintenanceView' id and the 'Hierarchy Maintenance' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.282
+!MESSAGE Removing part descriptor with the 'com.sap.bw.qd.ui.repl.LinkedComponentsView' id and the 'Linked Components' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.288
+!MESSAGE Removing part descriptor with the 'com.sap.core.tools.eclipse.logging.view.ServerLogsView' id and the 'Server Logs' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.302
+!MESSAGE Removing part descriptor with the 'com.sap.dataexplorer.ui.views.datapreview' id and the 'Data Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.314
+!MESSAGE Removing part descriptor with the 'com.sap.dataviz.ui.views.datapreview' id and the 'Data Preview' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.325
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.MainLeftView' id and the 'SAP Identity Management' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.335
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.idcenter.IDCenterPropertyView' id and the 'SAP Identity Management database' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.345
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.DispatcherEditView' id and the 'Dispatcher' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.355
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.repositories.RepositoryEditView' id and the 'Repository' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.364
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobVariablesTableView' id and the 'Job Variables' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.385
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.DbConfigEditView' id and the 'Database Configuration' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.393
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobsTreeView' id and the 'Jobs Tree View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.399
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobGeneralView' id and the 'Job General' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.410
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobContentView' id and the 'Job Content View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.433
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.ToPassView' id and the 'To-Pass View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.456
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.FromPassView' id and the 'From-Pass View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.463
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobPassesTableView' id and the 'Job Passes Table View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.472
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobScriptsTableView' id and the 'Job Scripts Table View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.500
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobConstantsTableView' id and the 'Job Constants Table View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.529
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.SystemLogView' id and the 'System Log View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.542
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobLogTableView' id and the 'Job Log View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.550
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobFolderView' id and the 'Job Folder' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.559
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobLogDetailView' id and the 'Job Log Detail' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.568
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobVariableEditView' id and the 'Job Variable edit view' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.576
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.jobs.JobConstantEditView' id and the 'Job constant edit view' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.583
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.GlobalScriptsTableView' id and the 'Global Scripts Table' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.597
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.GlobalConstantsTableView' id and the 'Global constants view' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.612
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.syntaxcheckingviewforjavascripteditor' id and the 'Syntax Checking for JavaScript' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.622
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.tasks.TaskView' id and the 'Task view' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.633
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.packages.PackageView' id and the 'Package View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.649
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.packages.PackageFolderView' id and the 'Package Folder View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.656
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.schema.AttributesTableView' id and the 'Attributes List' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.662
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.schema.EntryTypeTableView' id and the 'EntryType List' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.668
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.schema.AttributePropertyView' id and the 'Attribute' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.675
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.schema.EntryTypePropertyView' id and the 'Entry type' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.682
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.repositories.RepositoryTypeEditView' id and the 'Repository type view' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.691
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.idstore.IdStoreProperty' id and the 'IdStore Property View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.698
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.tasks.TaskRunProgressView' id and the 'TaskRunProgressView' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.704
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.ExecutionLogTableView' id and the 'ExecutionLogTableView' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.711
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.DispatcherFolderPropertyView' id and the 'Dispatcher Overview' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.717
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.RepositoryFolderView' id and the 'RepositoryFolderViewer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.725
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.search.SearchResultsView' id and the 'SearchResultsView' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.732
+!MESSAGE Removing part descriptor with the 'com.sap.idm.ic.rcp.views.ListDependenciesTableView' id and the 'ListDependenciesTableView' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.740
+!MESSAGE Removing part descriptor with the 'com.sap.it.ide.parameterization.ui.paramview' id and the 'Configurations' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.746
+!MESSAGE Removing part descriptor with the 'com.sap.it.ide.parameterization.ui.externalparametersview' id and the 'Externalized Parameters' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.758
+!MESSAGE Removing part descriptor with the 'com.sap.it.op.cockpit.ui.views.AggregatedDataView' id and the 'Aggregated Data' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.764
+!MESSAGE Removing part descriptor with the 'com.sap.it.op.cockpit.ui.views.Explorer' id and the 'Node Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.772
+!MESSAGE Removing part descriptor with the 'com.sap.it.op.cockpit.ui.views.TailLogView' id and the 'Tail Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.788
+!MESSAGE Removing part descriptor with the 'com.sap.it.ide.deploy.TaskLogViewPart' id and the 'Tasks View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.795
+!MESSAGE Removing part descriptor with the 'com.sap.it.ide.deploy.ComponentStatusViewPart' id and the 'Component Status View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.802
+!MESSAGE Removing part descriptor with the 'com.sap.it.op.cockpit.ui.views.attachment.AttachmentView' id and the 'Attachment' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.808
+!MESSAGE Removing part descriptor with the 'com.sap.jvm.profiling.ui.ConfigurationView' id and the 'Profile' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.814
+!MESSAGE Removing part descriptor with the 'com.sap.mts.esr.ui.esrbrowserview' id and the 'Enterprise Services Browser' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.821
+!MESSAGE Removing part descriptor with the 'com.sap.mts.serviceregistry.ui.serviceregistryview' id and the 'Services Registry' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.827
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.planviz.graph.view.NeighborView' id and the 'Neighbor' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.833
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.planviz.graph.perfTraceView' id and the 'Performance Trace' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.839
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.planviz.network.views.NetworkView' id and the 'Network' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.845
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.planviz.performance.trace.list.view' id and the 'Trace List' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.851
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.planviz.timeline.views.TimelineView' id and the 'Timeline' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.857
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.comlog.ui.LoggingView' id and the 'SAP HANA Communication Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.864
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.comlog.ui.ResourceChangeView' id and the 'Resource Changes' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.869
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.comlog.ui.SelectionChangeView' id and the 'Selection Changes' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.874
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.dwb.team.ui.views.repositorybrowser' id and the 'Repositories' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.880
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.dwb.tools.changetracking.views.ChangeTrackingOverviewView' id and the 'Change Manager' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.887
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.hampton.r10.views.R10TableView' id and the 'Operator List' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.892
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.hampton.tablesused.views.TablesUsedView' id and the 'Tables Used' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.898
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studiomodeler.history.view' id and the 'History' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.906
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.modeler.editor.view.jobLog' id and the 'Job Log' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.912
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.modeler.editor.view.Whereuse' id and the 'Where-Used List' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.917
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.navigator.view' id and the 'Systems' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.923
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.bi.quickview' id and the 'Quick View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.928
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.sqlscript.debugger.ui.SQLScriptDbgStackFrameView' id and the 'My StackFrame' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.933
+!MESSAGE Removing part descriptor with the 'com.sap.ndb.studio.xse.debugger.ui.views.DataStackView' id and the 'Data Stack' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.939
+!MESSAGE Removing part descriptor with the 'org.eclipse.datatools.connectivity.DataSourceExplorerNavigator' id and the 'Data Source Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.944
+!MESSAGE Removing part descriptor with the 'org.eclipse.datatools.sqltools.plan.planView' id and the 'Execution Plan' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.950
+!MESSAGE Removing part descriptor with the 'org.eclipse.datatools.sqltools.result.resultView' id and the 'SQL Results' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.956
+!MESSAGE Removing part descriptor with the 'org.eclipse.graphiti.ui.internal.editor.thumbnailview' id and the 'Miniature View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.961
+!MESSAGE Removing part descriptor with the 'org.eclipse.jpt.ui.jpaStructureView' id and the 'JPA Structure' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.967
+!MESSAGE Removing part descriptor with the 'org.eclipse.jpt.ui.jpaDetailsView' id and the 'JPA Details' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.973
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.api.tools.ui.views.apitooling.views.apitoolingview' id and the 'API Tools' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.978
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.runtime.RegistryBrowser' id and the 'Plug-in Registry' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.984
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.ui.PluginsView' id and the 'Plug-ins' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.990
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.ui.DependenciesView' id and the 'Plug-in Dependencies' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:05.995
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.ui.TargetPlatformState' id and the 'Target Platform State' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.002
+!MESSAGE Removing part descriptor with the 'org.eclipse.pde.ui.ImageBrowserView' id and the 'Plug-in Image Browser' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.008
+!MESSAGE Removing part descriptor with the 'org.eclipse.core.resources.semantic.resourceView' id and the 'Semantic Content' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.013
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.internet.monitor.view' id and the 'TCP/IP Monitor' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.018
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.TypeHierarchy' id and the 'Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.024
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.PackageExplorer' id and the 'Script Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.029
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.callhierarchy.view' id and the 'Call Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.035
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.SourceView' id and the 'Declaration' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.040
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.jsdt.ui.JavadocView' id and the 'Documentation' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.045
+!MESSAGE Removing part descriptor with the 'org.eclipse.wst.server.ui.ServersView' id and the 'Servers' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.050
+!MESSAGE Removing part descriptor with the 'org.eclipse.xtext.ui.XtextCallHierarchy' id and the 'Call Hierarchy' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.056
+!MESSAGE Removing part descriptor with the 'org.eclipse.xtext.xtext.ui.graph.view' id and the 'Xtext Syntax Graph' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.062
+!MESSAGE Removing part descriptor with the 'com.python.pydev.ui.hierarchy.PyHierarchyView' id and the 'Hierarchy View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.069
+!MESSAGE Removing part descriptor with the 'com.python.pydev.analysis.indexview.PyIndexView' id and the 'Index View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.074
+!MESSAGE Removing part descriptor with the 'org.python.pydev.navigator.view' id and the 'PyDev Package Explorer' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.078
+!MESSAGE Removing part descriptor with the 'org.python.pydev.views.PyCodeCoverageView' id and the 'Code Coverage' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.084
+!MESSAGE Removing part descriptor with the 'org.python.pydev.debug.profile.ProfileView' id and the 'Profile (PyVmMonitor)' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.089
+!MESSAGE Removing part descriptor with the 'org.python.pydev.views.ReferrersView' id and the 'Referrers View' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.095
+!MESSAGE Removing part descriptor with the 'org.python.pydev.views.CurrentExceptionView' id and the 'Caught Exceptions' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2018-01-14 18:18:06.118
+!MESSAGE Removing part descriptor with the 'org.python.pydev.debug.pyunit.pyUnitView' id and the 'PyUnit' description. Points to the invalid 'bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView' class.
